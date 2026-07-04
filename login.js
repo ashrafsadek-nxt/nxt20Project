@@ -1,2 +1,3 @@
 var x = 10;
-console.log("hello world");
+const y = "hello";
+console.log(y);
